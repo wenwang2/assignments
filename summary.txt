@@ -1,0 +1,176 @@
+  1. "BIOGUIDE_ID"
+
+	Type of data:          Text
+	Contains null values:  True (excluded from calculations)
+	Unique values:         12
+	Longest value:         7 characters
+	Most common values:    None (18x)
+	                       B001245 (2x)
+	                       C001094 (2x)
+	                       B001285 (1x)
+	                       C001083 (1x)
+
+  2. "OFFICE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         15
+	Longest value:         29 characters
+	Most common values:    LIFE CYCLE REPLACEMENT (8x)
+	                       CHIEF ADMIN OFCR OF THE HOUSE (7x)
+	                       HON. MADELEINE Z. BORDALLO (2x)
+	                       HON. PAUL COOK (2x)
+	                       COMMUNICATIONS EQUIPMENT (2x)
+
+  3. "QUARTER"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         6 characters
+	Most common values:    2017Q1 (31x)
+
+  4. "PROGRAM"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         5
+	Longest value:         29 characters
+	Most common values:    OFFICIAL EXPENSES OF MEMBERS (13x)
+	                       COMMUNICATIONS EQUIPMENT (10x)
+	                       MAIL AND PACKAGE DELIVERY (4x)
+	                       LIBRARY OF CONGRESS MAILREIMB (3x)
+	                       COMMUNICATIONS (1x)
+
+  5. "CATEGORY"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         30 characters
+	Most common values:    RENT  COMMUNICATION  UTILITIES (31x)
+
+  6. "DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         17
+	Smallest value:        2017-01-04
+	Largest value:         2017-03-28
+	Most common values:    2017-02-02 (4x)
+	                       2017-03-21 (4x)
+	                       2017-02-14 (3x)
+	                       2017-01-26 (3x)
+	                       2017-03-28 (2x)
+
+  7. "TRANSCODE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         2 characters
+	Most common values:    AP (31x)
+
+  8. "RECORDID"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         24
+	Longest value:         8 characters
+	Most common values:    912200 (4x)
+	                       902582 (2x)
+	                       912543 (2x)
+	                       901071 (2x)
+	                       900647 (2x)
+
+  9. "PAYEE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         14
+	Longest value:         33 characters
+	Most common values:    PHI & SUBSIDIARIES - PEPCO (7x)
+	                       LIT NETWORKS LLC (4x)
+	                       SUNSET DIGITAL COMMUNICATIONS INC (4x)
+	                       HARTL KELLIE J. (3x)
+	                       CITI PCARD-GUAM POWER AUTHORITY (2x)
+
+ 10. "START DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         17
+	Smallest value:        2016-01-05
+	Largest value:         2017-03-01
+	Most common values:    2016-12-01 (4x)
+	                       2017-01-29 (4x)
+	                       2017-01-01 (3x)
+	                       2016-12-08 (2x)
+	                       2016-11-08 (2x)
+
+ 11. "END DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         20
+	Smallest value:        2016-01-05
+	Largest value:         2018-01-07
+	Most common values:    2017-02-28 (5x)
+	                       2017-01-07 (2x)
+	                       2016-12-07 (2x)
+	                       2016-11-07 (2x)
+	                       2016-12-01 (2x)
+
+ 12. "PURPOSE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         9 characters
+	Most common values:    UTILITIES (31x)
+
+ 13. "AMOUNT"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         26
+	Smallest value:        1,548
+	Largest value:         28,490
+	Sum:                   250,468.58
+	Mean:                  8,079.632
+	Median:                2,837.75
+	StDev:                 8,321.03
+	Most common values:    15,500 (4x)
+	                       18,373.99 (2x)
+	                       28,490 (2x)
+	                       2,837.75 (1x)
+	                       2,583.16 (1x)
+
+ 14. "YEAR"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         3
+	Smallest value:        2,016
+	Largest value:         2,018
+	Sum:                   62,516
+	Mean:                  2,016.645
+	Median:                2,017
+	StDev:                 0.551
+	Most common values:    2,017 (18x)
+	                       2,016 (12x)
+	                       2,018 (1x)
+
+ 15. "RECIP (orig.)"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         14
+	Longest value:         33 characters
+	Most common values:    PHI & SUBSIDIARIES - PEPCO (7x)
+	                       LIT NETWORKS LLC (4x)
+	                       SUNSET DIGITAL COMMUNICATIONS INC (4x)
+	                       HARTL KELLIE J. (3x)
+	                       CITI PCARD-GUAM POWER AUTHORITY (2x)
+
+Row count: 31
