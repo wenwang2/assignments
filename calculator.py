@@ -13,3 +13,7 @@ def multiply(a, b):
 # This function divides two numbers
 def divide(a, b):
    return a / b
+
+print("I'm going use the calculator functions to multiply 5 and 6")
+x = multiply(5,6)
+print(x)
