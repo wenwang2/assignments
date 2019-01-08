@@ -1,7 +1,7 @@
 # This function adds two numbers 
 def add(a, b):
    return a + b
-print(x)
+
 # This function subtracts two numbers 
 def subtract(a, b):
    return a - b
